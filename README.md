@@ -1,2 +1,2 @@
 # ApnaCollege-Demo
-first git repository: first
+first git repository: Author first
